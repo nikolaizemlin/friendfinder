@@ -5,14 +5,6 @@ Created during Week 13 of Rutgers Coding Bootcamp. The goal was to create a Frie
 ## Getting Started
 http://protected-coast-16615.herokuapp.com/
 
-## Screen Shots
-
-![Screen shot](app/public/images/SS1.png)
-Index Page
-
-![Screen shot 2](app/public/images/SS2.png)
-Survey
-
 ## Technologies used
 - Node.js
 - body-parager NPM Package - https://www.npmjs.com/package/inquirer
@@ -33,4 +25,4 @@ Survey
 
 ## Authors
 
-* **Stefanie Ding** - *HTML/JS/Node.js* - [Stefanie Ding](https://github.com/StefanieDing)
+* **Nick Hosley** - *HTML/JS/Node.js* - [Nick Hosley](https://github.com/nikolaizemlin/friendfinder)
